@@ -1,0 +1,11 @@
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\bin\Release\NBMonitor.exe.config
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\bin\Release\NBMonitor.exe
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\bin\Release\NBMonitor.pdb
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\bin\Release\NBMonitor.xml
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\obj\Release\NBMonitor.vbprojResolveAssemblyReference.cache
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\obj\Release\NBMonitor.Form1.resources
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\obj\Release\NBMonitor.Resources.resources
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\obj\Release\NBMonitor.vbproj.GenerateResource.Cache
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\obj\Release\NBMonitor.exe
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\obj\Release\NBMonitor.xml
+C:\Users\许若阳\Documents\Visual Studio 2015\Projects\NBMonitor\NBMonitor\obj\Release\NBMonitor.pdb

@@ -1,0 +1,10 @@
+D:\Projects\NBMonitor\NBMonitor\bin\Debug\NBMonitor.exe.config
+D:\Projects\NBMonitor\NBMonitor\bin\Debug\NBMonitor.exe
+D:\Projects\NBMonitor\NBMonitor\bin\Debug\NBMonitor.pdb
+D:\Projects\NBMonitor\NBMonitor\bin\Debug\NBMonitor.xml
+D:\Projects\NBMonitor\NBMonitor\obj\Debug\NBMonitor.Form1.resources
+D:\Projects\NBMonitor\NBMonitor\obj\Debug\NBMonitor.Resources.resources
+D:\Projects\NBMonitor\NBMonitor\obj\Debug\NBMonitor.vbproj.GenerateResource.Cache
+D:\Projects\NBMonitor\NBMonitor\obj\Debug\NBMonitor.exe
+D:\Projects\NBMonitor\NBMonitor\obj\Debug\NBMonitor.xml
+D:\Projects\NBMonitor\NBMonitor\obj\Debug\NBMonitor.pdb
