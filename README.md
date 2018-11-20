@@ -1,2 +1,2 @@
 # NetworkBench-Client-Monitor
-Please visit http://www.kagamiz.com/nbmonitor/ for details.
+Please visit https://kagamiz.com/nbmonitor/ for details.
